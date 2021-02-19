@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.nav-option {
+    background-color: #343434;
+    color: whitesmoke;
+    display: inline-block;
+    font-size: 1.2em;
+    text-decoration: none;
+    padding: 7px 12px;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px -1px #595959;
+}
